@@ -8,7 +8,7 @@ This project explores the predictive power of machine learning in analyzing Engl
 * Rishi Madhavaram (rmadha4@uic.edu)
 * Manoj Dattatreya Myneni (mmyne@uic.edu)
 * Manoj Vamsee Poola (mpoola2@uic.edu)
-* Maha Laxmi Reddy Suraka (msura1@uic.edu)
+* Maha Lakshmi Reddy Suraka (msura1@uic.edu)
 * Venkata Sai Surya Rao Beeraka (vbeera2@uic.edu)
 * Harsha Vardhan Konduru (hkondu4@uic.edu)
 

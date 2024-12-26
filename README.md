@@ -7,7 +7,7 @@ This project delves into the rich dataset of English Premier League (EPL) matche
 ## 📂 Repository Content
 
 ### 1. **Data/**
-   - **📊 Raw Data:** Contains the original data scraped from the `fbref` website and `Stathead` platform.
+   - **📊 Raw Data:** Contains the original data web scraped from the `fbref` website and `Stathead` platform.
    - **🧹 Processed Data:** Includes cleaned and feature-engineered datasets used for analysis and model training.
 
 ### 2. **Docs/**
